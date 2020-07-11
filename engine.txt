@@ -12,3 +12,8 @@ c++
 c#
 python
 mysql
+
+nueva carrera agregada
+
+videojuegos
+animacion 2 y 3d
