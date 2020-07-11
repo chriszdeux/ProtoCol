@@ -10,3 +10,9 @@ lenguajes de prorgamacion
 html
 css
 javascrup
+
+otros lenguajes son:
+
+c++
+c#
+python
