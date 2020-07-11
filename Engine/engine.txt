@@ -17,3 +17,10 @@ nueva carrera agregada
 
 videojuegos
 animacion 2 y 3d
+
+
+Nueva carrera de musica
+
+piano
+guitarra
+bateria
