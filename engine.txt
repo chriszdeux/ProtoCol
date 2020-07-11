@@ -5,6 +5,6 @@ Leo
 BFMV
 
 Lenguajes de programacion
-html
+htmtxl
 css
 javascript
