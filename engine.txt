@@ -8,3 +8,7 @@ Lenguajes de programacion
 htmtxl
 css
 javascript
+c++
+c#
+python
+mysql
