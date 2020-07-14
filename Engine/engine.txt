@@ -25,3 +25,9 @@ piano
 guitarra
 bateria
 bajo
+
+Nuevos elementos
+fuego
+tierra
+aire
+agua
