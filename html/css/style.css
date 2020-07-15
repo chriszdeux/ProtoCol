@@ -1,0 +1,17 @@
+body{
+    background: aquamarine;
+}
+
+.container{
+    border: 3px solid white;
+    margin: 15px 30px;
+    padding: 0 15px;
+    text-align: center;
+    color: lightcoral;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.container h1{
+    color: brown;
+}
