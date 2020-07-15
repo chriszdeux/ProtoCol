@@ -2,6 +2,10 @@ body{
     background: aquamarine;
 }
 
+ul, ol, li{
+    list-style: none;
+}
+
 .container{
     border: 3px solid white;
     margin: 15px 30px;
@@ -10,6 +14,9 @@ body{
     color: lightcoral;
     font-weight: 600;
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: aquamarine;
+    background-color: azure;
 }
 
 .container h1{
@@ -18,10 +25,41 @@ body{
 
 .proto{
     border: 2px solid cornflowerblue;
+    margin: 30px;
   
 }
 
 .warning{
     color: red;
     font-size: 15px;
+}
+
+.box{
+    /* background-color: darkgreen; */
+    display: flex;
+    margin: 0;
+    padding: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box li{
+    /* background-color: blue; */
+    width: 50px;
+    height: 50px;
+    margin: 10px 20px;
+    flex-shrink: 0;
+    /* border: 2px solid blueviolet; */
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+
+}
+
+.green{
+    background-color: green;
 }
