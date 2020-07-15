@@ -1,5 +1,5 @@
 body{
-    background: aquamarine;
+    /* background: aquamarine; */
 }
 
 ul, ol, li{
@@ -50,6 +50,37 @@ ul, ol, li{
     margin: 10px 20px;
     flex-shrink: 0;
     /* border: 2px solid blueviolet; */
+}
+.warning_2{
+    color: blue;
+    font-size: 45px;
+}
+
+.menu h2{
+    font-family: fantasy;
+    color: hotpink;
+    text-align: center;
+}
+
+.circle{
+    margin: 15px ;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* border: 2px solid aqua; */
+    
+}
+
+.circle li{
+    width: 80px;
+    height: 80px;
+    border-radius: 300px;
+    list-style: none;
+    /* margin: 30px 60px; */
+    opacity: .5;;
+    flex-shrink: 0;
+    
 }
 
 .red{
