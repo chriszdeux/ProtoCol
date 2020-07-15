@@ -15,3 +15,13 @@ body{
 .container h1{
     color: brown;
 }
+
+.proto{
+    border: 2px solid cornflowerblue;
+  
+}
+
+.warning{
+    color: red;
+    font-size: 15px;
+}
