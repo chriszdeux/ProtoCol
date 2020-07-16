@@ -76,7 +76,10 @@ ul, ol, li{
 .circle li{
     width: 80px;
     height: 80px;
-    border-radius: 300px;
+    /* border-radius: 300px; */
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
     list-style: none;
     margin: 10px 10px;
     opacity: .5;;
