@@ -120,3 +120,20 @@ PARTE AGREAGADA POR CHRIS15832
     height: 200px;
     /* margin: 25px; */
 }
+
+.footer{
+    border: 3px solid royalblue;
+    border-radius: 150px;
+    margin: 0 50px;
+    background-color: seagreen;
+    text-align: center;
+    /* display: flex; */
+}
+
+.footer p{
+    width: 300px;
+    padding: 20px;
+    background-color: skyblue;
+    font-size: medium;
+    
+}
