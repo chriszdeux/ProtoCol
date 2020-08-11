@@ -2,6 +2,7 @@ body{
     /* background: aquamarine; */
 }
 
+
 ul, ol, li{
     list-style: none;
 }
@@ -97,4 +98,25 @@ ul, ol, li{
 
 .green{
     background-color: green;
+}
+
+/*
+PARTE AGREAGADA POR CHRIS15832
+*/
+
+.header {
+    border: 2px solid lawngreen;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    background-color: lightblue;
+
+}
+
+.logo img{
+    width: 200px;
+    height: 200px;
+    /* margin: 25px; */
 }
